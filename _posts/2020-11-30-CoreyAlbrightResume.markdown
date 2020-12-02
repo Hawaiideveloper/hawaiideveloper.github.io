@@ -10,7 +10,7 @@ Fort Lauderdale, FL
 www.linkedin.com/in/coreyMalbrightSenior
 
 [My github](https://github.com/Hawaiideveloper)
-[For the word version please click here](https://github.com/Hawaiideveloper/FreeLanceWorkQualifications/blob/main/CoreyAlbrightDevOpsFullStack.docx?raw=true)
+[For the word version please click here](https://github.com/Hawaiideveloper/hawaiideveloper.github.io/blob/main/CoreyAlbrightDevOpsFullStack.docx?raw=true)
 
 
 Skills:
