@@ -12,7 +12,7 @@ Fort Lauderdale, FL
   
 - [ ] [My github](https://github.com/Hawaiideveloper)  
     
-- [ ] [For the word version please click here](https://github.com/Hawaiideveloper/hawaiideveloper.github.io/blob/main/CoreyAlbrightDevOpsFullStack.docx?raw=true)
+- [ ] [Résumé in Word Version .docx](https://github.com/Hawaiideveloper/hawaiideveloper.github.io/blob/main/CoreyAlbrightDevOpsFullStack.docx?raw=true)
 
 
 Skills:
