@@ -6,9 +6,10 @@ categories: Qualifications
 ---
 **Corey Malcolm Albright, Senior**
 
-Fort Lauderdale, FL 32839 202-642-6739
+Fort Lauderdale, FL 
 www.linkedin.com/in/coreyMalbrightSenior
 
+[My github](https://github.com/Hawaiideveloper)
 [For the word version please click here](https://github.com/Hawaiideveloper/FreeLanceWorkQualifications/blob/main/CoreyAlbrightDevOpsFullStack.docx?raw=true)
 
 
