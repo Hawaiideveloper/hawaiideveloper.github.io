@@ -33,7 +33,7 @@ twitter_username: ruby4hawaii
 github_username:  hawaiideveloper
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
