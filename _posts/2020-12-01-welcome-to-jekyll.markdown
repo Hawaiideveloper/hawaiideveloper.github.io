@@ -5,6 +5,10 @@ date:   2020-12-01 20:24:00 -0500
 categories: jekyll update
 ---
 
+run this line:
+bundle exec jekyll serve --livereload
+
+
 [YAML Cheat sheet](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml)
 
 

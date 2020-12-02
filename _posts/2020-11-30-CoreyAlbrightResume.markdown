@@ -6,8 +6,8 @@ categories: Qualifications
 ---
 **Corey Malcolm Albright, Senior**
 
-Orlando, FL 32839 202-642-6739
- CoreyMAlbright@gmail.com www.linkedin.com/in/coreyMalbrightSenior
+Fort Lauderdale, FL 32839 202-642-6739
+www.linkedin.com/in/coreyMalbrightSenior
 
 [For the word version please click here](https://github.com/Hawaiideveloper/FreeLanceWorkQualifications/blob/main/CoreyAlbrightDevOpsFullStack.docx?raw=true)
 
