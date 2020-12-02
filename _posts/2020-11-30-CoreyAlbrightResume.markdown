@@ -9,7 +9,8 @@ categories: Qualifications
 Fort Lauderdale, FL 
 www.linkedin.com/in/coreyMalbrightSenior
 
-[My github](https://github.com/Hawaiideveloper)
+[My github](https://github.com/Hawaiideveloper)  
+
 [For the word version please click here](https://github.com/Hawaiideveloper/hawaiideveloper.github.io/blob/main/CoreyAlbrightDevOpsFullStack.docx?raw=true)
 
 
