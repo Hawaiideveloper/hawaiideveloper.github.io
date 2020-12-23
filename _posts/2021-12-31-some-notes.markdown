@@ -7,17 +7,33 @@ categories: jekyll update
 
 
 
-## About me:
-I am a [Full-Stack developer at heart](https://www.w3schools.com/whatis/whatis_fullstack.asp#:~:text=A%20full%20stack%20web%20developer,she%20also%20knows%20how%20to%3A&text=Program%20a%20server%20(like%20using,SQL%2C%20SQLite%2C%20or%20MongoDB)) who gets paid as a [DevOps Engineer](https://en.wikipedia.org/wiki/DevOps) who loves his wife, kids, health, and enjoys playing basketball and chess when I have time.
+run this line:
+bundle exec jekyll serve --livereload
 
 
-  Corey Albright: 
->
-  - Husband
-  - Father
-  - World traveler 
-  - Software engineer during the day (9am - 5pm)
-    - DevOps & Full-Stack 
-    - FreeLancer  
-  - Auto mechanic for fun during the night and weekends (Saturdays sunrise to sunset on Sunday)
+[YAML Cheat sheet](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml)
 
+
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
