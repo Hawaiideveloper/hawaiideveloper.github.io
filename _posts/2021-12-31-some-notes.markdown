@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About Me"
+title:  "Some Notes (Because I forget things as I write and talk in many languages including software)"
 date:   2020-11-01 20:24:00 -0500
 categories: jekyll update
 ---
