@@ -17,5 +17,5 @@ I am a [Full-Stack developer at heart](https://www.w3schools.com/whatis/whatis_f
   - Software engineer during the day (9am - 5pm)
     - DevOps & Full-Stack 
     - FreeLancer  
-  - Auto mechanic during the night and weekends (Saturdays sunrise to sunset)
+  - Auto mechanic for fun during the night and weekends (Saturdays sunrise to sunset on Sunday)
 
