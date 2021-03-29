@@ -8,7 +8,9 @@ categories: jekyll update
 
 ### Use this link to schedule time with me
 
-[Automated Calendar Invite]()
+[Automated Calendar Invite](https://calendly.com/coreymalbright/15min)
+
+Or....  you can scroll down and schedule here
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/coreymalbright/15min" style="min-width:320px;height:630px;"></div>
