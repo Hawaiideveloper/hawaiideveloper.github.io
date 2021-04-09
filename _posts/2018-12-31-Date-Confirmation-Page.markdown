@@ -6,12 +6,6 @@ date:   2018-12-31 20:24:00 -0500
 categories: jekyll update
 ---
 
----
-layout: post
-title:  "About Me"
-date:   2020-11-01 20:24:00 -0500
-categories: jekyll update
----
 
 
 
