@@ -12,9 +12,9 @@ Thank you for booking time with me, if you need another appointment please feel 
 
 [15 minutes request Calendar Invite](https://calendly.com/coreymalbright/15min)
 
-[30 minutes request Calendar Invite](https://calendly.com/coreymalbright/30min)
+[30 minutes request Calendar Invite](https://calendly.com/coreymalbright/30-minute-meeting)
 
-[60 minutes request Calendar Invite](https://calendly.com/coreymalbright/60min)
+[60 minutes request Calendar Invite](https://calendly.com/coreymalbright/60-minute-meeting)
 
 
 
