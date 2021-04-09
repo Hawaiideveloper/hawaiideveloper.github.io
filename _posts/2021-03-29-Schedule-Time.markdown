@@ -10,7 +10,7 @@ categories: jekyll update
 
 [15 minutes request Calendar Invite](https://calendly.com/coreymalbright/15min)
 
-[30 minutes request Calendar Invite](https://calendly.com/coreymalbright/30min)
+[30 minutes request Calendar Invite](https://calendly.com/coreymalbright/30-minute-meeting)
 
 [60 minutes request Calendar Invite](https://calendly.com/coreymalbright/60min)
 
