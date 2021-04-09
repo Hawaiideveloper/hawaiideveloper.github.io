@@ -1,23 +1,27 @@
 ---
 layout: post
-title:  "The date has been confirmed!"
-date:   2018-12-31 20:24:00 -0500
+title:  "Schedule some time to talk if you have a project or possible interesting job for me"
+date:   2019-10-01 20:24:00 -0500
 categories: jekyll update
 ---
 
 
+Thank you for booking time with me, if you need another appointment please feel free to cancel the first one, and then create a new one.  Multiple appointments within concurrent hours, may be rejected if detected.
 
+### Use this link to schedule time with me
 
-## Thank you for booking time with me.  I am sure it will be an enlightening conversation.
+[15 minutes request Calendar Invite](https://calendly.com/coreymalbright/15min)
 
-Please be sure to check our calendar and if for any reason you are unable to attend.  Please text me
+[30 minutes request Calendar Invite](https://calendly.com/coreymalbright/30min)
 
+[60 minutes request Calendar Invite](https://calendly.com/coreymalbright/60min)
 
+Or....  you can scroll down and schedule here
 
-
-
-
-
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/coreymalbright/15min" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
 
 
 ## About me:
