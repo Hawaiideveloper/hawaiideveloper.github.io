@@ -12,7 +12,7 @@ categories: jekyll update
 
 [30 minutes request Calendar Invite](https://calendly.com/coreymalbright/30-minute-meeting)
 
-[60 minutes request Calendar Invite](https://calendly.com/coreymalbright/60min)
+[60 minutes request Calendar Invite](https://calendly.com/coreymalbright/60-minute-meeting)
 
 Or....  you can scroll down and schedule here
 
