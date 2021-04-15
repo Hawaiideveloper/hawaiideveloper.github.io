@@ -14,7 +14,7 @@ categories: jekyll update
 Or....  you can scroll down and schedule here
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/coreymalbright/15min" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/coreymalbright/90-minute-block" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
