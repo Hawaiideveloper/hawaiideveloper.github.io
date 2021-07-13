@@ -11,7 +11,7 @@ Thank you for booking time with me, if you need another appointment please feel 
 ### Use this link to schedule time with me
 
 
-[90 minutes request Calendar Invite](https://calendly.com/coreymalbright/90-minute-block)
+[Request Calendar Invite](https://calendly.com/coreymalbright)
 
 
 
