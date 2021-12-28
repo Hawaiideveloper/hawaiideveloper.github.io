@@ -19,13 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Corey M. Albright, Senior
-email: atthegym24x7@gmail.com <--- junk mail goes here
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello my name is Corey, I like solving difficult problems and researching
-  in depth answers.  I write README.md'z and document inline because I hate 
-  memorizing things.  Plus I automate everything because I know I will be tired
-  tomorrow when you ask me to repeat yesterday.
-  I write scripts that are searchable and content that is approriate for all
+  Hello my name is Corey Albight,  I am a father, husband, son, inventor, and friend.  
+  I like solving difficult problems and researching in depth answers.  I like writing "howto's" and DIYs
+  README.md'z and document inline because I am not fond on explaining things more than twice plus I am 
+  not good at memorizing things.  I automate every aspect of my life because I know I will be tired
+  tomorrow and rather everything flow on auto-pilot.  I write scripts that are searchable and content that is approriate for all
   ages. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
