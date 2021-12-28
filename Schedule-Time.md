@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Let's Talk"
+permalink: /Schedule-Time/
 ---
 
 
