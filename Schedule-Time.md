@@ -28,7 +28,7 @@ permalink: /Schedule-Time/
 
 ### Corey Albright's short summary of capabilities:
 
-Documentation, System Architech / Engineer, VOIP, Software Development, Computer Networking, SEO, Java / JavaScript/ Bash Programming, Analyst, Product Owner, Scrum, Liaison for non-technical staff, Android / Kotlin / Java, iPhone / swift, Jenkins, Datadog, Kubernetes /K8s, Docker, AWS, Digital Ocean, Splunk, Zenoss, Zabbix
+Ansible, Documentation, System Architech / Engineer, VOIP, Software Development, Computer Networking, SEO, Java / JavaScript/ Bash Programming, Analyst, Product Owner, Scrum, Liaison for non-technical staff, Android / Kotlin / Java, iPhone / swift, Terraform, Jenkins, Datadog, Kubernetes /K8s, Docker, AWS, Digital Ocean, Splunk, Zenoss, Zabbix
 
 
 
