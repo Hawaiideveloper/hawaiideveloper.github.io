@@ -9,7 +9,12 @@ permalink: /Schedule-Time/
 
 [Click here to schedule time on his calendar](https://calendly.com/coreymalbright)
 
-> Organized meetings allow people to have a place, time, and respectable forum vs. unplanned and chaotic. 
+
+> *Organized meetings allow people to have a place, time, and respectable forum vs. unplanned and chaotic.* 
+  
+  
+  
+  
   
  - Please be sure to note all first time meetings should not exceed 10 minutes
  - Will be setup via platforms like: 
