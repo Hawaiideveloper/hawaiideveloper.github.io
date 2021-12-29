@@ -7,16 +7,16 @@ permalink: /Schedule-Time/
 
 ### Use this link to schedule time with Corey Albright
 
-[Click here to schedule time on his calendar](https://calendly.com/coreymalbright)
+## [Click here to schedule time on his calendar](https://calendly.com/coreymalbright)
 
 
-> *Organized meetings allow people to have a place, time, and respectable forum vs. unplanned and chaotic.* 
+###### > *Organized meetings allow people to have a place, time, and respectable forum vs. unplanned and chaotic.* 
   
   
   
   
   
- - Please be sure to note all first time meetings should not exceed 10 minutes
+ - Please be sure to note all first time meetings are set for 10 minutes
  - Will be setup via platforms like: 
   
      - Google Hangouts (preferred method) *it does not require anyone to install anything extra if using an internet chrome browser*
