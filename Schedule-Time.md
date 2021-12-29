@@ -23,9 +23,15 @@ permalink: /Schedule-Time/
 
 #### Corey Albright's short summary of capabilities:
 
-System Engineering, VOIP, Software Development, Computer Networking, SEO, Java / JavaScript/ Bash Programming, Analyst, Product Owner, Scrum, Liaison for non-technical staff, Android / Kotlin / Java, iPhone / swift, Jenkins, Datadog, Kubernetes /K8s, Docker, AWS, Digital Ocean, Splunk, Zenoss, Zabbix
+Documentation, System Architech / Engineer, VOIP, Software Development, Computer Networking, SEO, Java / JavaScript/ Bash Programming, Analyst, Product Owner, Scrum, Liaison for non-technical staff, Android / Kotlin / Java, iPhone / swift, Jenkins, Datadog, Kubernetes /K8s, Docker, AWS, Digital Ocean, Splunk, Zenoss, Zabbix
 
 
+
+##### Dear Prospective Partner / Employer / Affiliate:
+
+There are certain items Corey is not good at, and has purposely excluded them from the list above.  Although other professionals may claim to be experts in everything, he is attempting to brand himself over his documentation and presentation skills.  He is used to working as a backend type professional but has also been involved in the customer facing aspects when asked.
+
+His work history mostly consists of 1099s, that involve B2B aka Corp to Corp, and employee-owned /employee for Large corporations, Federal Agencies, and both local and state agencies.  He works well remotely, and has a long list of references upon request. 
 
 
 
