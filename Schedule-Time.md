@@ -5,7 +5,7 @@ permalink: /Schedule-Time/
 ---
 
 
-#### Use this link to schedule time with Corey Albright
+### Use this link to schedule time with Corey Albright
 
 [Click here to schedule time on his calendar](https://calendly.com/coreymalbright)
 
@@ -26,13 +26,13 @@ permalink: /Schedule-Time/
 
 
 
-#### Corey Albright's short summary of capabilities:
+### Corey Albright's short summary of capabilities:
 
 Documentation, System Architech / Engineer, VOIP, Software Development, Computer Networking, SEO, Java / JavaScript/ Bash Programming, Analyst, Product Owner, Scrum, Liaison for non-technical staff, Android / Kotlin / Java, iPhone / swift, Jenkins, Datadog, Kubernetes /K8s, Docker, AWS, Digital Ocean, Splunk, Zenoss, Zabbix
 
 
 
-##### Dear Prospective Partner / Employer / Affiliate:
+### Dear Prospective Partner / Employer / Affiliate:
 
 There are certain items Corey is not good at, and has purposely excluded them from the list above.  Although other professionals may claim to be experts in everything, he is attempting to brand himself over his documentation and presentation skills.  He is used to working as a backend type professional but has also been involved in the customer facing aspects when asked.
 
